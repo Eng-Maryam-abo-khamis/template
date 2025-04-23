@@ -1,0 +1,4 @@
+ECHO is on.
+*.log
+!a.log
+te.txt
